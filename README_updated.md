@@ -137,6 +137,4 @@ print(res.json())
 ✔️ Input/output format as per spec  
 ✔️ No frontend (backend-only FastAPI)
 
----
-
-> 🚨 This README is designed to meet all evaluation criteria and ensure your submission is accepted without issues.
+--

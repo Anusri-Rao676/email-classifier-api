@@ -123,7 +123,7 @@ print(res.json())
 
 ## 👩‍💻 Author
 
-- GitHub: [@Anusri666](https://github.com/Anusri666)
+- GitHub: [@Anusri-Rao-676](https://github.com/Anusri666)
 - Hugging Face Space: [email-classifier-api](https://huggingface.co/spaces/Anusri666/email-classifier-api)
 
 ---

@@ -123,7 +123,7 @@ print(res.json())
 
 ## 👩‍💻 Author
 
-- GitHub: [@Anusri666](https://github.com/Anusri666)
+- GitHub: [@Anusri-Rao676](https://github.com/Anusri-Rao676)
 - Hugging Face Space: [email-classifier-api](https://huggingface.co/spaces/Anusri666/email-classifier-api)
 
 ---
@@ -138,5 +138,3 @@ print(res.json())
 ✔️ No frontend (backend-only FastAPI)
 
 ---
-
-> 🚨 This README is designed to meet all evaluation criteria and ensure your submission is accepted without issues.
